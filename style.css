@@ -60,6 +60,9 @@ ui li{
     justify-content: space-between;
     align-items: center;
 }
+.completed{
+    text-decoration: line-through;
+}
 ui li button{
     background-color: orangered;
     height: 20px;
